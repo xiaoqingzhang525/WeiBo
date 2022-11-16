@@ -1,0 +1,11 @@
+
+.ant-layout-content{
+  /* height:500px; */
+  background-color: white;
+  border: 1px solid grey;
+  padding: 20px;
+  text-align: left;
+}
+.detailClass{
+  padding:100px
+}
